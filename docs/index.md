@@ -1,4 +1,4 @@
 ---
-title: AntonioCloud.com
-redirect_to: https://www.antoniocloud.com
+title: https://antonio.cloud
+redirect_to: https://antonio.cloud
 ---
